@@ -8,6 +8,7 @@ Description: This open-source software package enables researchers to predict in
 Depends:
     R (>= 3.2.0),
     utils
+    devtools
 Imports:
 Suggests:
 LazyLoad: yes
